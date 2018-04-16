@@ -147,3 +147,10 @@ License
 -------
 
 Apache v2.0
+
+Author
+------
+
+Steamulo - www.steamulo.com
+
+Forked from [angstwad](https://github.com/angstwad)
